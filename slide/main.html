@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">//
+    
+    
+    let index = 0;
+    
+    function prepare() {
+      let size = document.querySelectorAll("*[class$='slide']").length;
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "ArrowLeft" || event.key === "ArrowUp" || event.key === "Backspace") {
+          if (index > 0) {
+            index --;
+          }
+          scroll();
+        } else if (event.key === "ArrowRight" || event.key === "ArrowDown" || event.key === "Enter" || event.key === " ") {
+          if (index < size - 1) {
+            index ++;
+          }
+          scroll();
+        }
+      });
+    }
+    
+    function scroll() {
+      document.querySelectorAll("*[class$='slide']")[index].scrollIntoView();
+      console.log("Page: " + index);
+    }
+    
+    window.onload = prepare;</script>
+    <link rel="stylesheet" type="text/css" href="../style/style.css">
+    <title>文章から学ぶシャレイア語文法</title>
+  </head>
+  <body>
+
+    <div class="title-slide"><div class="container"><div class="header">
+    </div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="sentence">
+          <div class="sentence-item">
+            <span class="sans">e ʻalis, pôzac ovel ebam zi&apos;n déqat a&apos;s ca zehrisis vo <span class="emphasis">fîc ica hinof</span>,</span><span class="ellipsis"></span>
+          </div><div class="sentence-item">
+            <span class="sans">e ʻalis, pôzac ovel ebam zi&apos;n déqat a&apos;s ca zehrisis vo <span class="emphasis">fîc ica hinof</span>,</span><span class="ellipsis"></span>
+          </div>
+          <div class="sentence-item">
+            アリスは、 <span class="emphasis">お姉さんの近く</span>で堤防の上に座ることにうんざりしていて、<span class="ellipsis"></span>
+          </div>
+        <div class="position"><span class="small">第</span><span class="number">1</span><span class="small">段落</span><span class="small left-margin">第</span><span class="number">1</span><span class="small">文</span></div></div>
+      </div>
+    <div class="header">基本助接辞の非動詞修飾形をとる名詞</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="gloss">
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">fîc</span></span><span class="below">近く</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">ica</span></span><span class="below"><span class="morpheme">与格.非動詞修飾</span></span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">hinof</span></span><span class="below">姉</span></span></span>
+        </div>
+        <ul class="list">
+          <li>一部の名詞は助詞の非動詞修飾形をとる</li>
+          <li>日本語の 「～の」 に当たる <span class="sans">i</span> の用法を制限するため</li>
+        </ul>
+      </div>
+    <div class="header">基本助接辞の非動詞修飾形をとる名詞</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <ul class="list">
+          <li><span class="sans">i</span> の本来的な用法は 3 つだけ</li>
+          <ul class="list">
+            <li>所有<span class="dash"></span><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">cekul</span></span><span class="below">鞄</span></span></span> <span class="sans">i</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">ces</span></span><span class="below">彼女</span></span></span><span class="arrow"></span>彼女の鞄</li>
+            <li>部分<span class="dash"></span><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">kudoq</span></span><span class="below">奥</span></span></span> <span class="sans">i</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">sokul</span></span><span class="below">部屋</span></span></span><span class="arrow"></span>部屋の奥</li>
+            <li>性質<span class="dash"></span><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">takzâg</span></span><span class="below">温度</span></span></span> <span class="sans">i</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">rix</span></span><span class="below">水</span></span></span><span class="arrow"></span>水の温度</li>
+          </ul>
+        </ul>
+        <ul class="list">
+          <li>これ以外の 「～の」 は他の助詞の非動詞修飾形</li>
+          <li>単語ごとに個別の用法</li>
+        </ul>
+      </div>
+    <div class="header">基本助接辞の非動詞修飾形をとる名詞</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="sentence">
+          <div class="sentence-item"><span class="ellipsis"></span><span class="sans">duqifat lîgifas a&apos;s e cal, vade <span class="emphasis">meberat ò folnasat</span> ovel ebam e&apos;s a zalnat</span><span class="ellipsis"></span>
+          </div><div class="sentence-item"><span class="ellipsis"></span><span class="sans">duqifat lîgifas a&apos;s e cal, vade <span class="emphasis">meberat ò folnasat</span> ovel ebam e&apos;s a zalnat</span><span class="ellipsis"></span>
+          </div>
+          <div class="sentence-item"><span class="ellipsis"></span>暑さが彼女をとても<span class="emphasis">眠くさせぼんやりさせていた</span>ので、  それに集中することはできなかった<span class="ellipsis"></span>
+          </div>
+        <div class="position"><span class="small">第</span><span class="number">2</span><span class="small">段落</span><span class="small left-margin">第</span><span class="number">1</span><span class="small">文</span></div></div>
+      </div>
+    <div class="header">2 種類の and</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="gloss">
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">meberat</span></span><span class="below">眠くさせている</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">ò</span></span><span class="below">かつ</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">folnasat</span></span><span class="below">ぼんやりさせている</span></span></span>
+        </div>
+        <ul class="list">
+          <li><span class="sans">o</span><span class="dash"></span>並列 「<i>A</i> と <i>B</i>」</li>
+          <li><span class="sans">ò</span><span class="dash"></span>論理的な and 「<i>A</i> かつ <i>B</i>」</li>
+        </ul>
+      </div>
+    <div class="header">2 種類の and</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <ul class="list">
+          <li><span class="sans">o</span><span class="dash"></span>並列</li>
+          <ul class="list">
+            <li>基本的に名詞を繋げる</li>
+            <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">monaf</span></span><span class="below">猫</span></span></span> <span class="sans">o</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">dales</span></span><span class="below">犬</span></span></span><span class="arrow"></span>猫と犬</li>
+          </ul>
+        </ul>
+        <ul class="list">
+          <li><span class="sans">ò</span><span class="dash"></span>論理的な and</li>
+          <ul class="list">
+            <li>基本的に動詞や形容詞を繋げる</li>
+            <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">axac</span></span><span class="below">白い</span></span></span> <span class="sans">ò</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">atik</span></span><span class="below">小さい</span></span></span><span class="arrow"></span>白くて小さい</li>
+          </ul>
+        </ul>
+      </div>
+    <div class="header">2 種類の and</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <ul class="list">
+          <li>形容詞を繋げる場合は意味の違いが生じる</li>
+          <ul class="list">
+            <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">likok</span></span><span class="below">コップ</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">axac</span></span><span class="below">白い</span></span></span> <span class="sans">o</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">atik</span></span><span class="below">小さい</span></span></span><span class="arrow"></span>白いコップと小さいコップ</li>
+            <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">likok</span></span><span class="below">コップ</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">axac</span></span><span class="below">白い</span></span></span> <span class="sans">ò</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">atik</span></span><span class="below">小さい</span></span></span><span class="arrow"></span>白くて小さいコップ</li>
+          </ul>
+        </ul>
+        <ul class="list">
+          <li><span class="sans">ò</span> は名詞を繋げることもある</li>
+          <ul class="list">
+            <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">ces</span></span><span class="below">彼</span></span></span> <span class="sans">ò</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">dutel</span></span><span class="below">私以外</span></span></span><span class="arrow"></span>彼であって私ではない</li>
+          </ul>
+        </ul>
+      </div>
+    <div class="header">2 種類の and</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="sentence">
+          <div class="sentence-item"><span class="ellipsis"></span><span class="sans">qifat licas a ces e&apos;n kûvas a cit ca filotsodvaf avâc i hapet ivo <span class="emphasis">fîcdem izi nátalkìd</span>.</span>
+          </div><div class="sentence-item"><span class="ellipsis"></span><span class="sans">qifat licas a ces e&apos;n kûvas a cit ca filotsodvaf avâc i hapet ivo <span class="emphasis">fîcdem izi nátalkìd</span>.</span>
+          </div>
+          <div class="sentence-item"><span class="ellipsis"></span>彼女はそれが<span class="emphasis">生け垣の下</span>にあるウサギの大きな巣穴に入るのを見ることができた。 
+          </div>
+        <div class="position"><span class="small">第</span><span class="number">3</span><span class="small">段落</span><span class="small left-margin">第</span><span class="number">8</span><span class="small">文</span></div></div>
+      </div>
+    <div class="header">「～の下」 の表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="gloss">
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">fîcdem</span></span><span class="below">下部周辺</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">izi</span></span><span class="below"><span class="morpheme">奪格.非動詞修飾</span></span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">nátalkid</span></span><span class="below">生け垣</span></span></span>
+        </div>
+        <ul class="list">
+          <li><span class="sans">dem</span><span class="dash"></span>下, 下方</li>
+          <li><span class="sans">fîcdem</span><span class="dash"></span>下部周辺</li>
+        </ul>
+      </div>
+    <div class="header">「～の下」 の表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <ul class="list">
+          <li>「木の下」 ってどこ?</li>
+        </ul>
+        <img src="../asset/tree.svg"></img>
+      </div>
+    <div class="header">「～の下」 の表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="sentence">
+          <div class="sentence-item"><span class="ellipsis"></span><span class="sans">fodlisas a ʻalis ca filot acik, fa <span class="emphasis">vomac soxos odum</span> a ces e kin fovalis qi pil a&apos;s zi cêd.</span>
+          </div><div class="sentence-item"><span class="ellipsis"></span><span class="sans">fodlisas a ʻalis ca filot acik, fa <span class="emphasis">vomac soxos odum</span> a ces e kin fovalis qi pil a&apos;s zi cêd.</span>
+          </div>
+          <div class="sentence-item"><span class="ellipsis"></span>どうやってそこから出るのかとは<span class="emphasis">全く考えず</span>に、 アリスはその穴に飛び込んだ。 
+          </div>
+        <div class="position"><span class="small">第</span><span class="number">4</span><span class="small">段落</span><span class="small left-margin">第</span><span class="number">1</span><span class="small">文</span></div></div>
+      </div>
+    <div class="header">否定の反復表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="gloss">
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">vomac</span></span><span class="below">繰り返している</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">soxos</span></span><span class="below">考える</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">odum</span></span><span class="below">全く～ない</span></span></span>
+        </div>
+        <ul class="list">
+          <li>行為が 1 回なのか繰り返されるのかを厳密に区別</li>
+          <li>反復が想定されているなら否定でも反復表現に</li>
+        </ul>
+      </div>
+    <div class="header">否定の反復表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <ul class="list">
+          <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">vomac</span></span><span class="below">繰り返している</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">ducâsos</span></span><span class="below">会わない</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">a</span></span><span class="below"><span class="morpheme">主格</span></span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">zál</span></span><span class="below">私たち</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">te</span></span><span class="below"><span class="morpheme">時間</span></span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">zifiv</span></span><span class="below">最近</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">e</span></span><span class="below"><span class="morpheme">対格</span></span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">ces</span></span><span class="below">彼</span></span></span><span class="sans">.</span>
+  <span class="translation">最近私たちは彼に会わない。 </span></li>
+          <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">vomac</span></span><span class="below">繰り返している</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">dusôdos</span></span><span class="below">食べる</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">a</span></span><span class="below"><span class="morpheme">主格</span></span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">tel</span></span><span class="below">私</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">e</span></span><span class="below"><span class="morpheme">対格</span></span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">naved</span></span><span class="below">野菜</span></span></span><span class="sans">.</span>
+  <span class="translation">私は野菜を食べない。 </span></li>
+        </ul>
+      </div>
+    <div class="header">否定の反復表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="sentence">
+          <div class="sentence-item">
+            <span class="sans">ca <span class="emphasis">tòked aves</span> ivo vàtlic i ces, cekìdat e ceqèd é qinat.</span>
+          </div><div class="sentence-item">
+            <span class="sans">ca <span class="emphasis">tòked aves</span> ivo vàtlic i ces, cekìdat e ceqèd é qinat.</span>
+          </div>
+          <div class="sentence-item">
+            彼女の視界にある<span class="emphasis">全ての棚</span>に、 地図か絵画が吊るされていた。 
+          </div>
+        <div class="position"><span class="small">第</span><span class="number">6</span><span class="small">段落</span><span class="small left-margin">第</span><span class="number">5</span><span class="small">文</span></div></div>
+      </div>
+    <div class="header">「全て」 の表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="gloss">
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">tòked</span></span><span class="below">棚</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">aves</span></span><span class="below">全ての</span></span></span>
+        </div>
+        <ul class="list">
+          <li><span class="sans"><i>A</i></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">aves</span></span><span class="below">全ての</span></span></span><span class="dash"></span><i>A</i> がいくつかあってその全て</li>
+          <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">vis</span></span><span class="below">全て</span></span></span> <span class="sans">i</span> <span class="sans"><i>A</i></span><span class="dash"></span>1 つの <i>A</i> の全体</li>
+        </ul>
+      </div>
+    <div class="header">「全て」 の表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <ul class="list">
+          <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">sokut</span></span><span class="below">国</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">aves</span></span><span class="below">全ての</span></span></span><span class="dash"></span>日本, 中国, アメリカ, <span class="japanese">…</span></li>
+          <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">vis</span></span><span class="below">全て</span></span></span> <span class="sans">i</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">sokut</span></span><span class="below">国</span></span></span><span class="dash"></span>ある国の中の全域</li>
+        </ul>
+        <ul class="list">
+          <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">taq</span></span><span class="below">日</span></span></span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">aves</span></span><span class="below">全ての</span></span></span><span class="dash"></span>昨日, 今日, 明日, <span class="japanese">…</span></li>
+          <li><span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">vis</span></span><span class="below">全て</span></span></span> <span class="sans">i</span> <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">taq</span></span><span class="below">日</span></span></span><span class="dash"></span>ある日の 0 時～ 24 時</li>
+        </ul>
+      </div>
+    <div class="header">「全て」 の表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="sentence">
+          <div class="sentence-item">
+            <span class="sans"><span class="emphasis">yo loc asen</span>, pa salat a fêd e nûzîlaned é ôsetrélias?</span>
+          </div><div class="sentence-item">
+            <span class="sans"><span class="emphasis">yo loc asen</span>, pa salat a fêd e nûzîlaned é ôsetrélias?</span>
+          </div>
+          <div class="sentence-item">
+            <span class="emphasis">すみません</span>、 ここはニュージーランドですか、 オーストラリアですか?
+          </div>
+        <div class="position"><span class="small">第</span><span class="number">9</span><span class="small">段落</span><span class="small left-margin">第</span><span class="number">7</span><span class="small">文</span></div></div>
+      </div>
+    <div class="header">話しかけるときの定型表現</div></div></div>
+  
+    <div class="slide"><div class="container">
+      
+      <div class="content">
+        <div class="gloss">
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">yo</span></span><span class="below"><span class="morpheme">呼格</span></span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">loc</span></span><span class="below">あなた</span></span></span>
+          <span class="pile"><span class="below-wrapper"><span class="center"><span class="sans">asen</span></span><span class="below">～さん</span></span></span>
+        </div>
+        <ul class="list">
+          <li>知らない人に話しかけるときの定型表現</li>
+          <li><span class="sans">asen</span> がないバージョンもある</li>
+        </ul>
+      </div>
+    <div class="header">話しかけるときの定型表現</div></div></div>
+ 
+  </body>
+</html>

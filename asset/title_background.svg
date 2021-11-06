@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="title_background.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1032">
+      <stop
+         style="stop-color:#376072;stop-opacity:1"
+         offset="0"
+         id="stop1028" />
+      <stop
+         style="stop-color:#2d4e5c;stop-opacity:1"
+         offset="1"
+         id="stop1030" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1032"
+       id="linearGradient1034"
+       x1="-11.094609"
+       y1="0"
+       x2="496.9054"
+       y2="285.75"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(11.094609)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.20864427"
+     inkscape:cx="332.86553"
+     inkscape:cy="831.99562"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:lockguides="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-text-baseline="true"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       visible="true"
+       enabled="true" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid846"
+       enabled="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient1034);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 189.16299,-41.80639 -18.68311,318.1936 571.57677,320 V -40 Z"
+       id="path1026"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g950"
+       transform="matrix(4.5249432,0,0,4.5249432,-53.352257,-1142.6194)">
+      <g
+         id="g874"
+         transform="matrix(0.22225475,0,0,0.22225475,1.180848,202.82582)">
+        <path
+           style="fill:#33abff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           d="m 89.958333,254.50216 2.645833,4.58271 -3.968744,2.29137 3.96875,6.87408 3.968749,-2.29137 2.645834,4.58272 9.260415,-16.03951 z"
+           id="path4097-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccc"
+           inkscape:export-filename="C:\Users\Ziphil\Documents\ドキュメント\人工言語\資料\シャレイア語ロゴ (ヘッダー用).png"
+           inkscape:export-xdpi="188.05121"
+           inkscape:export-ydpi="188.05121" />
+        <path
+           style="fill:#ffc333;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           d="m 80.697916,270.54167 h 18.520839 l -3.175005,-5.49926 c -0.132292,-0.22914 -0.330724,-0.34371 -0.595308,-0.34371 -0.424283,0 -0.396875,0.91655 -0.992187,1.26025 -0.696886,0.40235 -2.116667,0 -3.042708,-1.60395 -0.926042,-1.60395 -0.463021,-3.09333 0.132291,-3.43704 0.595318,-0.34369 1.322917,0.22914 1.587495,-0.22913 0.132297,-0.22913 0.132297,-0.45827 0,-0.68741 l -3.175,-5.49926 -2.645833,4.58272 -3.968745,-2.29136 -3.96875,6.87407 3.96081,2.30511 z"
+           id="path3084-51-7-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccssscssccccccc"
+           inkscape:export-filename="C:\Users\Ziphil\Documents\ドキュメント\人工言語\資料\シャレイア語ロゴ (ヘッダー用).png"
+           inkscape:export-xdpi="188.05121"
+           inkscape:export-ydpi="188.05121" />
+        <path
+           style="fill:#ffdb33;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           d="m 71.437502,254.50216 2.645831,4.58271 -3.968742,2.29137 3.968747,6.87408 3.96875,-2.29137 2.645828,4.58272 3.175,-5.49926 c 0.132292,-0.22914 0.132292,-0.45827 0,-0.68741 -0.21214,-0.36743 -0.992187,0.11457 -1.5875,-0.22914 -0.696886,-0.40234 -1.058333,-1.83308 -0.132291,-3.43703 0.926041,-1.60396 2.447396,-1.94766 3.042708,-1.60396 0.595313,0.34372 0.463021,1.26025 0.992187,1.26026 0.264584,0 0.463021,-0.11457 0.595313,-0.34371 l 3.175,-5.49926 h -5.277681 l -0.01397,-4.58272 h -7.9375 l 0.0096,4.58272 z"
+           id="path3084-5-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccssscssccccccc"
+           inkscape:export-filename="C:\Users\Ziphil\Documents\ドキュメント\人工言語\資料\シャレイア語ロゴ (ヘッダー用).png"
+           inkscape:export-xdpi="188.05121"
+           inkscape:export-ydpi="188.05121" />
+        <path
+           style="fill:#ff9433;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           d="m 80.697916,238.46265 -9.260414,16.03951 h 6.350003 c 0.264583,0 0.463016,-0.11457 0.595307,-0.34371 0.212143,-0.36744 -0.595312,-0.80197 -0.595312,-1.48938 0,-0.80469 1.058333,-1.83309 2.910416,-1.83309 1.852084,0 2.910422,1.14569 2.910417,1.83309 0,0.68741 -0.859896,1.03111 -0.595307,1.48939 0.132286,0.22913 0.330724,0.3437 0.595312,0.3437 h 6.349995 z"
+           id="path3084-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccssscssccc"
+           inkscape:export-filename="C:\Users\Ziphil\Documents\ドキュメント\人工言語\資料\シャレイア語ロゴ (ヘッダー用).png"
+           inkscape:export-xdpi="188.05121"
+           inkscape:export-ydpi="188.05121" />
+        <path
+           style="fill:#ffab33;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           d="m 62.177083,270.54167 h 18.520833 l -3.175,-5.49926 c -0.132291,-0.22914 -0.330729,-0.34371 -0.595307,-0.34371 -0.424283,0 -0.396875,0.91655 -0.992187,1.26025 -0.696886,0.40235 -2.116667,0 -3.042706,-1.60395 -0.926042,-1.60395 -0.463021,-3.09333 0.132292,-3.43704 0.595315,-0.34369 1.322914,0.22914 1.587492,-0.22913 0.132297,-0.22913 0.132297,-0.45827 0,-0.68741 l -3.174998,-5.49926 z"
+           id="path3084-51-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccssscssccc"
+           inkscape:export-filename="C:\Users\Ziphil\Documents\ドキュメント\人工言語\資料\シャレイア語ロゴ (ヘッダー用).png"
+           inkscape:export-xdpi="188.05121"
+           inkscape:export-ydpi="188.05121" />
+        <path
+           style="fill:#33c3ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           d="m 99.218755,270.54167 9.260415,16.03951 H 89.958338 Z"
+           id="path4097-1-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc"
+           inkscape:export-filename="C:\Users\Ziphil\Documents\ドキュメント\人工言語\資料\シャレイア語ロゴ (ヘッダー用).png"
+           inkscape:export-xdpi="188.05121"
+           inkscape:export-ydpi="188.05121" />
+      </g>
+      <g
+         aria-label="tAkÂtWKeTwèL"
+         id="text878"
+         style="font-style:normal;font-weight:normal;font-size:2.91043px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1">
+        <path
+           d="m 26.956515,262.1973 0.115812,0.20141 h -1.802653 l 0.901327,-1.56096 0.115813,0.20142 -0.667184,1.15813 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1001" />
+        <path
+           d="m 26.833146,261.13987 0.55137,0.95672 0.553888,-0.95672 z m -0.349957,-0.20141 h 1.802654 l -0.901327,1.56096 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1003" />
+        <path
+           d="m 27.696705,262.39871 0.785514,-1.35954 -0.304639,-0.52871 0.115813,-0.20142 1.205966,2.08967 z m 0.349956,-0.20141 h 1.105259 l -0.553888,-0.95672 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1005" />
+        <path
+           d="m 29.260177,261.13987 0.55137,0.95672 0.553888,-0.95672 z m -0.349957,-0.20141 h 1.802654 l -0.901327,1.56096 z m 1.01714,-0.36003 -0.115813,0.20142 -0.115813,-0.20142 0.115813,-0.20141 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1007" />
+        <path
+           d="m 31.810577,262.1973 0.115813,0.20141 h -1.802654 l 0.901327,-1.56096 0.115813,0.20142 -0.667184,1.15813 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1009" />
+        <path
+           d="m 32.180671,262.39871 -0.84342,-1.46025 h 0.234144 l 0.840902,1.46025 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1011" />
+        <path
+           d="m 32.173116,261.13987 0.55137,0.95672 0.553888,-0.95672 z m -0.349956,-0.20141 h 1.455214 l -0.249249,-0.428 0.11833,-0.20142 0.420452,0.73013 -0.843421,1.46025 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1013" />
+        <path
+           d="m 33.036675,262.39871 0.11833,-0.20141 h 1.336885 l -0.97434,-1.68684 0.115813,-0.20142 1.205966,2.08967 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1015" />
+        <path
+           d="m 36.052844,260.93846 -0.115813,0.20141 h -1.336884 l 0.667183,1.15813 -0.115813,0.20142 -0.901327,-1.56096 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1017" />
+        <path
+           d="m 36.307127,260.93846 h 0.231626 l -0.840903,1.46025 h -0.234144 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1019" />
+        <path
+           d="m 35.949614,262.39871 0.11833,-0.20141 h 1.336885 l -0.97434,-1.68684 0.115813,-0.20142 1.205966,2.08967 z m 1.052387,0.42045 H 36.69988 l 0.151061,-0.26184 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1021" />
+        <path
+           d="m 37.513086,261.13987 0.55137,0.95672 0.553888,-0.95672 z m -0.349957,-0.20141 h 1.802654 l -1.205965,2.08967 -0.115813,-0.20141 0.304638,-0.52872 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path1023" />
+      </g>
+      <g
+         aria-label="CwiLxaLèYw"
+         id="text878-9"
+         style="font-style:normal;font-weight:normal;font-size:2.91043px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1">
+        <path
+           d="m 25.61963,263.8065 0.551371,0.95672 0.553888,-0.95672 z m -0.349956,-0.20141 h 1.802653 l -0.785513,1.35954 0.307156,0.52871 -0.118331,0.20142 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path980" />
+        <path
+           d="m 27.32661,263.60509 h 0.231626 l -0.840903,1.46025 h -0.234144 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path982" />
+        <path
+           d="m 27.870424,263.50438 0.901327,1.56096 h -0.231626 l -0.669701,-1.15813 -0.609277,1.05742 0.304639,0.52871 -0.115813,0.20142 -0.420452,-0.73013 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path984" />
+        <path
+           d="m 28.532569,263.8065 0.551371,0.95672 0.553888,-0.95672 z m -0.349956,-0.20141 h 1.802654 l -1.205966,2.08967 -0.115813,-0.20142 0.304639,-0.52871 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path986" />
+        <path
+           d="m 29.396128,265.06534 0.84342,-1.46025 h 1.686841 l -0.84342,1.46025 z m 1.075046,-1.25884 0.553888,0.95672 0.551371,-0.95672 z m -0.725089,1.05742 h 1.105258 l -0.553888,-0.95671 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path988" />
+        <path
+           d="m 31.337251,265.06534 0.901327,-1.56096 0.901327,1.56096 z m 0.349957,-0.20142 h 1.105258 l -0.553888,-0.95671 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path990" />
+        <path
+           d="m 32.900723,263.8065 0.551371,0.95672 0.553888,-0.95672 z m -0.349956,-0.20141 h 1.802654 l -1.205966,2.08967 -0.115813,-0.20142 0.304639,-0.52871 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path992" />
+        <path
+           d="m 33.764283,265.06534 0.11833,-0.20142 h 1.336885 l -0.97434,-1.68684 0.115813,-0.20141 1.205965,2.08967 z m 1.052387,0.42045 h -0.302121 l 0.15106,-0.26184 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path994" />
+        <path
+           d="m 35.327754,263.8065 0.450664,0.783 -0.115813,0.20141 -0.684807,-1.18582 h 1.802654 l -0.684807,1.18582 -0.115813,-0.20141 0.453181,-0.783 z m 0.667184,1.15813 -0.115813,0.20141 -0.115813,-0.20141 0.115813,-0.20141 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path996" />
+        <path
+           d="m 37.034734,263.60509 h 0.231625 l -0.840902,1.46025 h -0.234144 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.91043px;font-family:'Gilit Triangle';-inkscape-font-specification:'Gilit Triangle';fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:0.0588048;stroke-opacity:1"
+           id="path998" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.575px;line-height:1.3;font-family:sans-serif;text-align:end;letter-spacing:3.175px;text-anchor:end;fill:#e3e7e8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="449.79169"
+       y="116.41666"
+       id="text1038"><tspan
+         sodipodi:role="line"
+         id="tspan1036"
+         x="449.79169"
+         y="116.41666"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.575px;font-family:IPAPMincho;-inkscape-font-specification:IPAPMincho;text-align:end;text-anchor:end;fill:#e3e7e8;fill-opacity:1;stroke-width:0.264583">文章から学ぶ</tspan><tspan
+         sodipodi:role="line"
+         x="452.96667"
+         y="156.99652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.575px;font-family:IPAPMincho;-inkscape-font-specification:IPAPMincho;text-align:end;text-anchor:end;fill:#e3e7e8;fill-opacity:1;stroke-width:0.264583"
+         id="tspan1040">シャレイア語文法</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;letter-spacing:1.5875px;fill:#e3e7e8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="448.20419"
+       y="232.83334"
+       id="text1044"><tspan
+         sodipodi:role="line"
+         id="tspan1042"
+         x="449.79169"
+         y="232.83334"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:end;text-anchor:end;fill:#e3e7e8;fill-opacity:1;stroke-width:0.264583">Ziphil Shaleiras</tspan></text>
+  </g>
+</svg>

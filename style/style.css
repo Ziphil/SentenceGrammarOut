@@ -1,0 +1,308 @@
+@charset "UTF-8";
+div.slide {
+  width: 177.7777777778vh;
+  height: 100vh;
+  margin: 0px auto;
+  padding: 0px;
+  background: url("../asset/background.svg"), white;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+}
+
+div.slide .container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+div.slide .header {
+  height: 7.9vh;
+  top: 0vh;
+  left: 25vh;
+  font-size: 90%;
+  color: #f9f3ec;
+  line-height: 7.9vh;
+  position: absolute;
+}
+
+div.slide .content {
+  padding: 15.5vh 35vh 8vh 35vh;
+  color: #2e3538;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-grow: 1;
+  z-index: 0;
+}
+
+div.slide .sentence {
+  position: relative;
+  margin: 4vh -35vh 0vh -35vh;
+  padding: 11vh 35vh 8vh 35vh;
+  color: #e3e7e8;
+}
+
+div.slide .sentence::before {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background: linear-gradient(to bottom right, #376072, #2d4e5d);
+  transform: skewX(0deg);
+  content: "";
+  position: absolute;
+}
+
+div.slide .sentence .position {
+  position: relative;
+  width: 30%;
+  height: 8vh;
+  padding: 0.2vh 0vh 0vh 0vh;
+  top: -4vh;
+  left: 35%;
+  text-align: center;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+div.slide .sentence .position::before {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background: linear-gradient(to bottom right, #26434f, #1c313b);
+  transform: skewX(-30deg);
+  content: "";
+  position: absolute;
+}
+
+div.slide .sentence .position .number {
+  margin: 0em 0.2em;
+  font-family: "Gill Sans Nova";
+  font-size: 1.5em;
+  font-weight: bold;
+  font-stretch: condensed;
+}
+
+div.slide .sentence .position .small {
+  font-size: 0.8em;
+}
+
+div.slide .sentence .position .small.left-margin {
+  margin-left: 1em;
+}
+
+div.slide .sentence .sentence-item {
+  line-height: 1.4;
+  letter-spacing: 0.03em;
+  text-align: justify;
+}
+
+div.slide .sentence .sentence-item::before {
+  width: 0u;
+  height: 0u;
+  margin-top: -0.2em;
+  display: block;
+  content: "";
+}
+
+div.slide .sentence .sentence-item::after {
+  width: 0u;
+  height: 0u;
+  margin-bottom: -0.2em;
+  display: block;
+  content: "";
+}
+
+div.slide .sentence .sentence-item:not(:first-child) {
+  margin-top: 6vh;
+}
+
+div.slide .sentence .sentence-item:nth-child(2) .sans {
+  font-family: "Vekos Web" !important;
+  font-size: 100% !important;
+}
+
+div.slide .sentence .emphasis {
+  color: #7dc8e8;
+}
+
+div.slide .gloss {
+  position: relative;
+  margin: 0vh -10vh 0vh -10vh;
+  padding: 5vh 10vh 5vh 10vh;
+  font-size: 1.5em;
+  word-spacing: 0.6em;
+  color: #e3e7e8;
+}
+
+div.slide .gloss::before {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background: linear-gradient(to bottom right, #376072, #2d4e5d);
+  transform: skewX(-30deg);
+  content: "";
+  position: absolute;
+}
+
+div.slide .pile {
+  display: inline-block;
+}
+
+div.slide .pile .below-wrapper {
+  display: inline-table;
+}
+
+div.slide .pile .above {
+  margin-bottom: 0.3em;
+  font-size: 1em;
+  display: block;
+}
+
+div.slide .pile .below {
+  margin-top: 0.3em;
+  font-size: 0.7em;
+  display: block;
+}
+
+div.slide .morpheme {
+  opacity: 0.75;
+}
+
+div.slide .morpheme::before {
+  content: "(";
+}
+
+div.slide .morpheme::after {
+  content: ")";
+}
+
+div.slide .list {
+  margin: 0vh;
+  padding: 0vh;
+  list-style-type: none;
+}
+
+div.slide .list > .list {
+  margin-top: 3.5vh;
+  margin-left: 5vh;
+}
+
+div.slide .list > li {
+  margin-left: 1.1em;
+  text-align: justify;
+}
+
+div.slide .list > li::before {
+  width: 0.8em;
+  margin-right: 0.3em;
+  margin-left: -1.1em;
+  color: #325767;
+  content: "⬥";
+  display: inline-block;
+}
+
+div.slide .list > li:not(:first-child) {
+  margin-top: 3.5vh;
+}
+
+div.slide img {
+  align-self: center;
+}
+
+div.slide .translation {
+  margin-top: 3vh;
+  display: block;
+}
+
+div.slide .translation::before {
+  margin: 0em 0.3em 0em 0em;
+  opacity: 0.5;
+  content: "▶";
+}
+
+div.slide .dash,
+div.slide .arrow,
+div.slide .ellipsis {
+  margin: 0em 0.3em;
+  opacity: 0.5;
+}
+
+div.slide .dash::before {
+  content: "—";
+}
+
+div.slide .arrow::before {
+  content: "▶";
+}
+
+div.slide .ellipsis::before {
+  font-family: "IPA明朝" !important;
+  content: "…";
+}
+
+div.slide .ellipsis:first-child {
+  margin-left: 0em;
+}
+
+div.slide .ellipsis:last-child {
+  margin-right: 0em;
+}
+
+div.title-slide {
+  width: 177.7777777778vh;
+  height: 100vh;
+  margin: 0px auto;
+  padding: 0px;
+  background: url("../asset/background.svg"), white;
+  background-size: cover;
+  position: relative;
+  overflow: hidden;
+  background: url("../asset/title_background.svg"), white;
+  background-size: cover;
+}
+
+div.title-slide .container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Vekos Web";
+  src: url("https://ziphil.com/material/font/7.ttf");
+}
+
+html {
+  font-size: 4.5vh;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Times New Roman", "IPA P明朝";
+  font-feature-settings: "palt" 1, "pkna" 1;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  background-color: black;
+  overflow: hidden;
+}
+
+* .sans {
+  font-family: "Arial" !important;
+  font-size: 96% !important;
+  line-height: 96% !important;
+}
+
+* .japanese {
+  font-family: "IPA明朝" !important;
+  font-feature-settings: "palt" 0;
+}
